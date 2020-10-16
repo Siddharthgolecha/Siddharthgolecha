@@ -1,29 +1,5 @@
-<!--
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-</style>
-</head>
-<body>
--->  
 # Hi there, I'm Siddharth Golecha 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Siddharthgolecha" alt="Siddharth Golecha" /></p>
-
-<!--
-<a href="#" class="button" >Toggle dark mode</a> -->
-<!--
- <script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script> -->
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddharth-golecha/) 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/siddharth.golecha.24/)
@@ -38,14 +14,31 @@ function myFunction() {
 <br />
 
 ---
+<p align="center"> 
+  
+### My GitHub Stats
 
-<details>
-  <summary>:zap:GitHub Stats</summary>
+  <img alt="Siddharth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Siddharthgolecha&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide_border=false&count_private=true&show_owner=true" />
+  
+</p>
+<p align="center"> 
+  
+### My Language Stats
 
-  <img align="left" alt="Siddharth's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Siddharthgolecha&show_icons=true&hide_border=true" />
+<img alt="Siddharth's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthgolecha&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide_border=false&langs_count=10" />
 
-</details>
-<!--
-</body>
-</html>
--->
+</p>
+<p align="center"> 
+  
+### My Top Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthgolecha&repo=CarND-Advanced-Lane-Lines&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Siddharthgolecha/CarND-Advanced-Lane-Lines)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthgolecha&repo=Traffic-Sign-Classifier&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Siddharthgolecha/Traffic-Sign-Classifier)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthgolecha&repo=Behavioural-Cloning&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Siddharthgolecha/Behavioural-Cloning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthgolecha&repo=CarND-Extended-Kalman-Filter-Project&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Siddharthgolecha/CarND-Extended-Kalman-Filter-Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthgolecha&repo=Data-Analysis-of-Countries&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Siddharthgolecha/Data-Analysis-of-Countries)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthgolecha&repo=Cricket-Scorer-App&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Siddharthgolecha/Cricket-Scorer-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthgolecha&repo=Quantum-Computing-Projects&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Siddharthgolecha/Quantum-Computing-Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthgolecha&repo=Snapz&bg_color=45,00d2ff,3a7bd5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Siddharthgolecha/Snapz)
+
+</p>
