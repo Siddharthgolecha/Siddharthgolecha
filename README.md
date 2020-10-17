@@ -1,5 +1,39 @@
-# Hi there, I'm Siddharth Golecha 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Siddharthgolecha" alt="Siddharth Golecha" /></p>
+  <table rules=none style="padding:5px">
+    <tr>
+      <th colspan="3" align="left">
+        <h1> About Me </h1> 
+        <div align="right">
+          <img src="https://komarev.com/ghpvc/?username=Siddharthgolecha" alt="Siddharth Golecha" />
+        </div>
+      </th>
+    </tr>
+    <tr>
+    </tr>
+    <tr width="33%">
+      <td valign="top"> 
+        <h2> Hi there,<br/> I'm Siddharth Golecha 👋 </h2>
+      </td>
+      <td rowspan="0" colspan="3" > 
+        <img src="siddharth.gif" /> 
+      </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr >
+      <td valign="top">
+        Avid learner interested in different technologies like </br>
+        <ul>
+          <li> Artificial Intelligence </li>
+          <li> Quantum Computing and Machine Learning </li>
+          <li> Android Application Development </li>
+          <li> Game Developemnt </li>
+        </ul>
+      </td>  
+    </tr>    
+  </table>
+<!-- Avid learner interested in different technologies like Artificial Intelligence, Quantum Cumputing and Machine Learning, -->
+<!-- <img src="https://komarev.com/ghpvc/?username=Siddharthgolecha" alt="Siddharth Golecha" /> -->
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/siddharth-golecha/) 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/siddharth.golecha.24/)
